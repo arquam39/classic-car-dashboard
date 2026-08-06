@@ -1,0 +1,14 @@
+.car-image{
+
+    width:500px;
+
+    position:absolute;
+
+}
+.car-image{
+
+    position:relative;
+
+    z-index:2;
+
+}

@@ -1,0 +1,17 @@
+.dashboard{
+
+    min-height:100vh;
+
+    display:flex;
+
+
+}
+
+
+/* space after navbar */
+
+.dashboard-content{
+    margin-left: 80px;
+    width: calc(100% - 80px);
+    min-height: 100vh;
+}
