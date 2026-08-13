@@ -9,7 +9,6 @@ const cars = [
         image:car1,
         color:"#B40500"
     },
-
     {
         brand:"CADILLAC",
         image:car2,
@@ -25,7 +24,6 @@ const cars = [
         image:car4,
         color:"#59B6E6"
     },
-
 ];
 
 
