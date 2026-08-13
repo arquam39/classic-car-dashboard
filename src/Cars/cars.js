@@ -15,7 +15,6 @@ const cars = [
         image:car2,
         color:"#212126"
     },
-
     {
         brand:"CHEVROLET",
         image:car3,
