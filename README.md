@@ -2,7 +2,7 @@
 
 A modern interactive car showcase dashboard built with React and Framer Motion.
 
-## Features
+## Features 
 
 - Vertical navigation
 - Scroll based car switching
